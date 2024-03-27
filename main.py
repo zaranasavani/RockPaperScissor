@@ -1,5 +1,6 @@
 import os
 import random
+import win32com.client as wincom
 
 print("Let's Play Rock Paper Scissor")
 s1 = "Lets play rock paper scissor"
