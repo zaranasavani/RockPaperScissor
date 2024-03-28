@@ -11,7 +11,7 @@ speak.Speak(s1)
 l = ['rock','paper','scissor']
 while True:
     ucount = 0
-    ccount = 0
+    ccount = 0 
 
     s2 = "Game Start enter 1 for start and 2 for exit"
     speak.Speak(s2)
