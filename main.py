@@ -93,4 +93,4 @@ while True:
             s13 = "Computer win the final game"
             speak.Speak(s13)
 
-print("from dev branch git")
+print("from main branch git")
